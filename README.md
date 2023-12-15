@@ -30,7 +30,7 @@ Goal: Avoid Oil Splatter when Frying <br>
 
 ## Training
 
-Required libraries are shared within `src/requirements.txt`. Baseline models can be simply trained and evaluated with `src/train_with_accelerator.py` and `src/test.sh` files following the implementation details and using the hyperparameters shared in our paper. Please refer to our paper for cost of training each model for both tasks.
+Required libraries are shared within `src/requirements.txt`. Baseline models can be simply trained and evaluated with `src/train_with_accelerator.py` and `src/test.py` files following the implementation details and using the hyperparameters shared in our paper. Please refer to our paper for cost of training each model for both tasks.
 
 ## Baseline Models
 
