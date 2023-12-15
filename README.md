@@ -1,5 +1,7 @@
 # PARADISE: Evaluating Implicit Reasoning Skills of Language Models with Procedural Warnings and Tips Dataset
 
+**Note:** This is a preliminary version of this Github repository, which will be updated with a rigorous documentation.  
+
 This repository contains the code and resources for the paper titled "PARADISE: Evaluating Implicit Reasoning Skills of Language Models with Procedural Warnings and Tips Dataset." The paper introduces PARADISE, a dataset designed to evaluate the implicit reasoning skills of language models. The dataset focuses on procedural warnings and tips associated with achieving specific goals in how-to tutorials. The evaluation tasks include tip and warning inference, requiring models to distinguish the correct warning/tip for a given goal without access to intermediate instructions.
 
 ## Repository Structure
