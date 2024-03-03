@@ -1,8 +1,8 @@
-# PARADISE: Evaluating Implicit Reasoning Skills of Language Models with Procedural Warnings and Tips Dataset
+# PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset
 
 **Note:** This is a preliminary version of this Github repository, which will be updated with a rigorous documentation.  
 
-This repository contains the code and resources for the paper titled "PARADISE: Evaluating Implicit Reasoning Skills of Language Models with Procedural Warnings and Tips Dataset." The paper introduces PARADISE, a dataset designed to evaluate the implicit reasoning skills of language models. The dataset focuses on procedural warnings and tips associated with achieving specific goals in how-to tutorials. The evaluation tasks include tip and warning inference, requiring models to distinguish the correct warning/tip for a given goal without access to intermediate instructions.
+This repository contains the code and resources for the paper titled "PARADISE: Evaluating Implicit Reasoning Skills of Language Models with Procedural Warnings and Tips Dataset." The paper introduces PARADISE, a dataset designed to evaluate the implicit reasoning skills of language models. The dataset focuses on procedural warnings and tips associated with achieving specific goals in how-to tutorials. The evaluation tasks include tip and warning inference, requiring models to distinguish the correct warning/tip for a given goal without access to intermediate instructions. You can also [find](https://huggingface.co/datasets/GGLab/PARADISE) PARADISE on Hugging Face.
 
 ## Repository Structure
 `data-creation`: Contains the code and resources to replicate the production of PARADISE. <br>
@@ -44,4 +44,4 @@ To be updated upon publication.
 
 ## Acknowledgement
 
-To be updated upon publication.
+This work has been supported by the Scien- tific and Technological Research Council of Türkiye (TÜB ̇ITAK) as part of the project “Auto- matic Learning of Procedural Language from Natu- ral Language Instructions for Intelligent Assistance” with the number 121C132. We also gratefully ac- knowledge KUIS AI Lab for providing computa- tional support. We thank our anonymous reviewers and the members of GGLab who helped us improve this paper. We especially thank Aysha Gurbanova, S ̧ebnem Demirtas ̧, and Mahmut  ̇Ibrahim Deniz for their contributions to evaluating human performance on warning and tip inference tasks.
